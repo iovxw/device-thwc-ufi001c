@@ -1,0 +1,9 @@
+[submodule "partitions/tools/db-boot-tools"]
+	path = partitions/tools/db-boot-tools
+	url = https://git.linaro.org/landing-teams/working/qualcomm/db-boot-tools.git
+[submodule "partitions/tools/edl"]
+	path = partitions/tools/edl
+	url = https://github.com/bkerler/edl.git
+[submodule "partitions/tools/qtestsign"]
+	path = partitions/tools/qtestsign
+	url = https://github.com/msm8916-mainline/qtestsign.git
