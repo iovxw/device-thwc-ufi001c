@@ -13,4 +13,4 @@ fsg,2048,,638FF8E2-22C9-E33B-8F5D-0E81686A68CB,,fs_image_linux.tar.gz.mbn.img
 aboot,1024,,400FFDCD-22E0-47E7-9A23-F16ED9382388,,emmc_appsboot.mbn
 modem,65536,,EBD0A0A2-B9E5-4433-87C0-68B6B72699C7,,modem.img
 devinfo,1024,,1B81E7E6-F50D-419B-A739-2AEEF8DA3335,,
-rootfs,0,,,fastboot,-rootfs.img
+userdata,0,,,fastboot,-rootfs.img
